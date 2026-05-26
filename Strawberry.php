@@ -1,5 +1,6 @@
 <?php
 include 'Pewarisan.php';
+
 // Strawberry is inherited from Fruit
 class Strawberry extends Fruit {
   public function message() {
